@@ -2,6 +2,8 @@
 
 <!-- Note: This is a placeholder image. You can replace it with a real one. -->
 
+[中文版本](./README.zh.md)
+
 This is the unofficial GitHub organization for students 👩‍💻, alumni 🎓, and tech enthusiasts 💡 from **Mengzi No. 1 High School (蒙自市第一高级中学)**. We are a student-led community dedicated to coding, learning, and collaboration.
 
 Inspired by our school's century-long tradition and its spirit of "Strive for self-improvement and pursue excellence" (自强不息, 追求卓越), we aim to create a space where we can build amazing things together. 🚀
