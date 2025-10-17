@@ -41,7 +41,7 @@ However, this is an open and inclusive community for **everyone** at Mengzi No. 
 
 ## 🎉 How to Get Involved
 
-Are you a student or alumni of Mengzi No. 1 High School? We'd love for you to join us!
+Are you a student or alumni of Mengzi No. 1 High School(or Mengzi Experimental School)? We'd love for you to join us!
 
 1.  **🔎 Explore our projects:** Check out our repositories to see what we're working on.
 2.  **⌨️ Contribute:** Feel free to open issues, submit pull requests, or share your ideas.
